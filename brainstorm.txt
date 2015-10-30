@@ -1,0 +1,46 @@
+Team Brainstorm Notes (10/29/2015)
+--
+City comparisons
+- Students across different university communities in various countries
+
+Connect with Foursquare check-in data
+
+International comparisons with Yelp equivalents (da zhong dian ping in China, zomato in India) 
+- Dependent on API/data availibility
+
+Economic questions
+- What is the importance of location and in what way? (ex. better for Chinese restaurant to be located near other Chinese restaurants or unique as the only in the neighborhood)
+- Clustering/heatmap
+
+Types of food/diet
+- Compare to ethnic/religious diversity known from other data sources (Census)
+
+Students
+- Different colleges within the same city, what are their favorite spots and what can this tell us about them (ex. Baruch vs. NYU vs. Columbia)
+
+Users/reviewers
+- Can we trace their path
+- Are their leaders and followers? Who are they and how do they behaves
+- Can we infer information from them given their profile information, review text, and connect it to a spatial phenomenon in some way
+
+Promotions (ex. eating competitions)
+- What is the effect of promotions, ex. radius reach
+
+Happiest and unhappiest happy hours (for fun)
+
+Quality of life
+
+Natural Language Processing (NLP) of review data
+- Timing (lag for reviews)
+- Perceptions/psychology
+- Languages
+
+Trends based on review data
+- Ex. the CRONUT
+
+Comparison with delivery data (Seamless, Grubhub)
+- Dependent on data availibility
+
+Socioeconomic issues and health issues
+- $ vs. $$$$
+- Bias of Yelp towards middle-upper class, compare with fast food locations (McDonalds, White Castle, etc.)
