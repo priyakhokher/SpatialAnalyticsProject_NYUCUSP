@@ -6,7 +6,7 @@ City comparisons
 Connect with Foursquare check-in data
 
 International comparisons with Yelp equivalents (da zhong dian ping in China, zomato in India) 
-- Dependent on API/data availibility
+- Dependent on API/data availability
 
 Economic questions
 - What is the importance of location and in what way? (ex. better for Chinese restaurant to be located near other Chinese restaurants or unique as the only in the neighborhood)
