@@ -25,4 +25,4 @@ So  by Monday - 5PM we all should be able to have our individual ideas charted o
 For inspiration/guidance I found this, sort of helped me to clear my mind and
 know the process to start atleast for Monday.
 
-![Alt text]('https://github.com/priyakhokher/SpatialAnalyticsProject_NYUCUSP/blob/master/datascientist_mantra.jpg')'DataScientistPLanOfAction'
+![Alt text] (https://github.com/priyakhokher/SpatialAnalyticsProject_NYUCUSP/blob/master/datascientist_mantra.jpg)'DataScientistPLanOfAction'
