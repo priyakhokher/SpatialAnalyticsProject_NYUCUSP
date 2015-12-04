@@ -1,0 +1,13 @@
+Spatial Discussion for : 12/3/2015
+Datasets:
+1. It will be pushed by Ana
+Plan of Action :
+We have decided to do the following :
+1. Initial Timeline of bad review points being superimposed by inspection result.
+2. Showing Yelp review result and compare it with the inspection results. If the Yelp data matches the inspection result, then the Yelp data might be considered a good proxy for inspection action
+3. Clustering method: we calculate the mean score of each unit of shape file and according to this mean score do a clustering – Static Map
+4. animation showing the restaurant inspection results for each neighborhood by month
+
+The duties will be updated by Linda . Please follow the Google Document.
+‘https://docs.google.com/document/d/1tjZyDUL2wGaiWWnJ4AAT1Mxe_cwSWAMwQKw0H-YLRR8/edit’
+
